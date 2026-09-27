@@ -54,19 +54,11 @@
 ### 🔥 GitHub Stats & Activity:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vthiruvasagam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Thiruvasagam's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vthiruvasagam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Thiruvasagam's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthiruvasagam&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthiruvasagam&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most Used Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vthiruvasagam&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=vthiruvasagam&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </div>
 
 ---
